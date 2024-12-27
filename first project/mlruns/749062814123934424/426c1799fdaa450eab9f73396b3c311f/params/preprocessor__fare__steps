@@ -1,0 +1,1 @@
+[('outlier', Winsorizer(capping_method='iqr', fold=1.5)), ('scaler', StandardScaler())]

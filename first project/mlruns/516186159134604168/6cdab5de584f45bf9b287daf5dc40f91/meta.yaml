@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/6cdab5de584f45bf9b287daf5dc40f91/artifacts
+end_time: 1735228576273
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 6cdab5de584f45bf9b287daf5dc40f91
+run_name: able-snake-240
+run_uuid: 6cdab5de584f45bf9b287daf5dc40f91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228576041
+status: 3
+tags: []
+user_id: kumar

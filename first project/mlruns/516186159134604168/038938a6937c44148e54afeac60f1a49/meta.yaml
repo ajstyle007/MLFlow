@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/038938a6937c44148e54afeac60f1a49/artifacts
+end_time: 1735228059897
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 038938a6937c44148e54afeac60f1a49
+run_name: orderly-elk-195
+run_uuid: 038938a6937c44148e54afeac60f1a49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228059594
+status: 3
+tags: []
+user_id: kumar

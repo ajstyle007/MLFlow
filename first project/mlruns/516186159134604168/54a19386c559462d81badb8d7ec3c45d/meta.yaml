@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/54a19386c559462d81badb8d7ec3c45d/artifacts
+end_time: 1735228577503
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 54a19386c559462d81badb8d7ec3c45d
+run_name: shivering-grub-346
+run_uuid: 54a19386c559462d81badb8d7ec3c45d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228577252
+status: 3
+tags: []
+user_id: kumar

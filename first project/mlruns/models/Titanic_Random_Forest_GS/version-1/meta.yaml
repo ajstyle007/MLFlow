@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1735223098684
+current_stage: None
+description: ''
+last_updated_timestamp: 1735223098684
+name: Titanic_Random_Forest_GS
+run_id: c93b2ece7f3048309cda48fbbfafc9e7
+run_link: ''
+source: mlflow-artifacts:/191940943830179688/c93b2ece7f3048309cda48fbbfafc9e7/artifacts/best_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/191940943830179688/c93b2ece7f3048309cda48fbbfafc9e7/artifacts/best_model
+user_id: null
+version: 1

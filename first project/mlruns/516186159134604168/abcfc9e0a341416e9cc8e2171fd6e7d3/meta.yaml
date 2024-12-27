@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/abcfc9e0a341416e9cc8e2171fd6e7d3/artifacts
+end_time: 1735228061152
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: abcfc9e0a341416e9cc8e2171fd6e7d3
+run_name: nimble-panda-911
+run_uuid: abcfc9e0a341416e9cc8e2171fd6e7d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228060879
+status: 3
+tags: []
+user_id: kumar

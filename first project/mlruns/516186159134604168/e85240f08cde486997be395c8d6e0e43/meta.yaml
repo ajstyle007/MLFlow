@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/e85240f08cde486997be395c8d6e0e43/artifacts
+end_time: 1735228588495
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: e85240f08cde486997be395c8d6e0e43
+run_name: valuable-dolphin-338
+run_uuid: e85240f08cde486997be395c8d6e0e43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228588199
+status: 3
+tags: []
+user_id: kumar

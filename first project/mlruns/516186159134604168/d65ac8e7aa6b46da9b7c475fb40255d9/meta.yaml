@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/d65ac8e7aa6b46da9b7c475fb40255d9/artifacts
+end_time: 1735228575713
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: d65ac8e7aa6b46da9b7c475fb40255d9
+run_name: upset-shark-193
+run_uuid: d65ac8e7aa6b46da9b7c475fb40255d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228575389
+status: 3
+tags: []
+user_id: kumar

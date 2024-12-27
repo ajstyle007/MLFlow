@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/97c562da425c4907b8de1bae68ed3df3/artifacts
+end_time: 1735228588168
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 97c562da425c4907b8de1bae68ed3df3
+run_name: treasured-rat-324
+run_uuid: 97c562da425c4907b8de1bae68ed3df3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228587852
+status: 3
+tags: []
+user_id: kumar

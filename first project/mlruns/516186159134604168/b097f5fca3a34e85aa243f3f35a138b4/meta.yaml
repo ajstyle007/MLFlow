@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/b097f5fca3a34e85aa243f3f35a138b4/artifacts
+end_time: 1735228492083
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: b097f5fca3a34e85aa243f3f35a138b4
+run_name: flawless-zebra-292
+run_uuid: b097f5fca3a34e85aa243f3f35a138b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228491750
+status: 3
+tags: []
+user_id: kumar

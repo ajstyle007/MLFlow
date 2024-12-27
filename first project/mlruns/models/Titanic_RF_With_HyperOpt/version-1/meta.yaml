@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1735228694313
+current_stage: None
+description: ''
+last_updated_timestamp: 1735228694313
+name: Titanic_RF_With_HyperOpt
+run_id: 2611542124454a50b29d12971c8ba75b
+run_link: ''
+source: mlflow-artifacts:/516186159134604168/2611542124454a50b29d12971c8ba75b/artifacts/best_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/516186159134604168/2611542124454a50b29d12971c8ba75b/artifacts/best_model
+user_id: null
+version: 1

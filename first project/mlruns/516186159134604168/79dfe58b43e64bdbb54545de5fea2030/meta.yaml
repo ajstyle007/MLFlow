@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/79dfe58b43e64bdbb54545de5fea2030/artifacts
+end_time: 1735228054228
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 79dfe58b43e64bdbb54545de5fea2030
+run_name: melodic-bug-68
+run_uuid: 79dfe58b43e64bdbb54545de5fea2030
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228053879
+status: 3
+tags: []
+user_id: kumar

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/191940943830179688/f80f78f8e2c549568568c4227a4fafc4/artifacts
+end_time: 1735222124669
+entry_point_name: ''
+experiment_id: '191940943830179688'
+lifecycle_stage: active
+run_id: f80f78f8e2c549568568c4227a4fafc4
+run_name: aged-mink-431
+run_uuid: f80f78f8e2c549568568c4227a4fafc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735222111074
+status: 3
+tags: []
+user_id: kumar

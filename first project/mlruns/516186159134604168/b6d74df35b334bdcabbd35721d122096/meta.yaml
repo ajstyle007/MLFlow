@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/b6d74df35b334bdcabbd35721d122096/artifacts
+end_time: 1735228486750
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: b6d74df35b334bdcabbd35721d122096
+run_name: resilient-trout-93
+run_uuid: b6d74df35b334bdcabbd35721d122096
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228486471
+status: 3
+tags: []
+user_id: kumar

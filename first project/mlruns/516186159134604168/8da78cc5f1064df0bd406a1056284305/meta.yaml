@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/8da78cc5f1064df0bd406a1056284305/artifacts
+end_time: 1735228052961
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 8da78cc5f1064df0bd406a1056284305
+run_name: aged-loon-468
+run_uuid: 8da78cc5f1064df0bd406a1056284305
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228052786
+status: 3
+tags: []
+user_id: kumar

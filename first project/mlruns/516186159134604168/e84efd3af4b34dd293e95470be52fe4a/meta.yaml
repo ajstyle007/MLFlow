@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/e84efd3af4b34dd293e95470be52fe4a/artifacts
+end_time: 1735228055233
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: e84efd3af4b34dd293e95470be52fe4a
+run_name: bemused-duck-253
+run_uuid: e84efd3af4b34dd293e95470be52fe4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228054920
+status: 3
+tags: []
+user_id: kumar

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/efe4289734ce41e58b379c87f5c3d389/artifacts
+end_time: 1735228055682
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: efe4289734ce41e58b379c87f5c3d389
+run_name: delightful-loon-228
+run_uuid: efe4289734ce41e58b379c87f5c3d389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228055512
+status: 3
+tags: []
+user_id: kumar

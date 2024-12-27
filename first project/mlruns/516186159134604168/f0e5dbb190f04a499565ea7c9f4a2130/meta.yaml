@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/f0e5dbb190f04a499565ea7c9f4a2130/artifacts
+end_time: 1735228576008
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: f0e5dbb190f04a499565ea7c9f4a2130
+run_name: efficient-sheep-807
+run_uuid: f0e5dbb190f04a499565ea7c9f4a2130
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228575738
+status: 3
+tags: []
+user_id: kumar

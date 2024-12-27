@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/350394918f7748ab8df2aa5a02dc613e/artifacts
+end_time: 1735228497985
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 350394918f7748ab8df2aa5a02dc613e
+run_name: hyperopt_run
+run_uuid: 350394918f7748ab8df2aa5a02dc613e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228480066
+status: 3
+tags: []
+user_id: kumar

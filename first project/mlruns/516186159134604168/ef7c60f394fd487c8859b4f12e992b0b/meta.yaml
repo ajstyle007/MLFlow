@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/ef7c60f394fd487c8859b4f12e992b0b/artifacts
+end_time: 1735228587247
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: ef7c60f394fd487c8859b4f12e992b0b
+run_name: masked-fawn-881
+run_uuid: ef7c60f394fd487c8859b4f12e992b0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228586981
+status: 3
+tags: []
+user_id: kumar

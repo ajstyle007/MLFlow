@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/aa9fe688e37546dba69fbdbf1c088a12/artifacts
+end_time: 1735228575360
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: aa9fe688e37546dba69fbdbf1c088a12
+run_name: marvelous-ray-377
+run_uuid: aa9fe688e37546dba69fbdbf1c088a12
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228575059
+status: 3
+tags: []
+user_id: kumar

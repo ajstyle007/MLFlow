@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/26303791fc854ac0871fb15d25f3ad5c/artifacts
+end_time: 1735228053255
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 26303791fc854ac0871fb15d25f3ad5c
+run_name: judicious-lamb-923
+run_uuid: 26303791fc854ac0871fb15d25f3ad5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228052981
+status: 3
+tags: []
+user_id: kumar

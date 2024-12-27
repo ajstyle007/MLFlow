@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/ecfbc352cb5449ddbb3a6b7fb0e30b7a/artifacts
+end_time: 1735227476348
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: ecfbc352cb5449ddbb3a6b7fb0e30b7a
+run_name: auspicious-bat-396
+run_uuid: ecfbc352cb5449ddbb3a6b7fb0e30b7a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735227476319
+status: 4
+tags: []
+user_id: kumar

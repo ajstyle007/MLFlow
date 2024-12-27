@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/01bc40d8feb04329915c198798e81f72/artifacts
+end_time: 1735228049071
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 01bc40d8feb04329915c198798e81f72
+run_name: welcoming-lamb-532
+run_uuid: 01bc40d8feb04329915c198798e81f72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228048843
+status: 3
+tags: []
+user_id: kumar

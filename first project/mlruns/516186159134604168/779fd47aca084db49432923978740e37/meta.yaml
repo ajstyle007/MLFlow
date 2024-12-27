@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/779fd47aca084db49432923978740e37/artifacts
+end_time: 1735228489629
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 779fd47aca084db49432923978740e37
+run_name: worried-worm-100
+run_uuid: 779fd47aca084db49432923978740e37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228489434
+status: 3
+tags: []
+user_id: kumar

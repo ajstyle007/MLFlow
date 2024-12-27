@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/2964a121a17b484391ac142fee75f87d/artifacts
+end_time: 1735228495977
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 2964a121a17b484391ac142fee75f87d
+run_name: welcoming-doe-872
+run_uuid: 2964a121a17b484391ac142fee75f87d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228495703
+status: 3
+tags: []
+user_id: kumar

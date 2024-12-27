@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/455998aa6297427fabd6ec25bd04bd05/artifacts
+end_time: 1735228581582
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 455998aa6297427fabd6ec25bd04bd05
+run_name: judicious-finch-904
+run_uuid: 455998aa6297427fabd6ec25bd04bd05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228581323
+status: 3
+tags: []
+user_id: kumar

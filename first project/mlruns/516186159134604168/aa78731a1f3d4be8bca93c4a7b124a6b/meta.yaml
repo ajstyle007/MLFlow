@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/aa78731a1f3d4be8bca93c4a7b124a6b/artifacts
+end_time: 1735228497144
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: aa78731a1f3d4be8bca93c4a7b124a6b
+run_name: grandiose-quail-625
+run_uuid: aa78731a1f3d4be8bca93c4a7b124a6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228496938
+status: 3
+tags: []
+user_id: kumar

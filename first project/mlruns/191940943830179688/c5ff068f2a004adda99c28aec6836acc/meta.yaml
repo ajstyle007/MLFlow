@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/191940943830179688/c5ff068f2a004adda99c28aec6836acc/artifacts
+end_time: 1735222124669
+entry_point_name: ''
+experiment_id: '191940943830179688'
+lifecycle_stage: active
+run_id: c5ff068f2a004adda99c28aec6836acc
+run_name: clean-hound-588
+run_uuid: c5ff068f2a004adda99c28aec6836acc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735222111074
+status: 3
+tags: []
+user_id: kumar

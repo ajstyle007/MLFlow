@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/cb05cef86fdf45d690ff9ed6ee7b09a3/artifacts
+end_time: 1735228484107
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: cb05cef86fdf45d690ff9ed6ee7b09a3
+run_name: wistful-elk-36
+run_uuid: cb05cef86fdf45d690ff9ed6ee7b09a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228483700
+status: 3
+tags: []
+user_id: kumar

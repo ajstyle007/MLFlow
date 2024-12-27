@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/c7406af5075044bd970a42e863a0725d/artifacts
+end_time: 1735228052759
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: c7406af5075044bd970a42e863a0725d
+run_name: overjoyed-shrimp-203
+run_uuid: c7406af5075044bd970a42e863a0725d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228052459
+status: 3
+tags: []
+user_id: kumar

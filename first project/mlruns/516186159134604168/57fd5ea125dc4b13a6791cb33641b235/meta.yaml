@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/57fd5ea125dc4b13a6791cb33641b235/artifacts
+end_time: 1735228063936
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 57fd5ea125dc4b13a6791cb33641b235
+run_name: smiling-ape-719
+run_uuid: 57fd5ea125dc4b13a6791cb33641b235
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228063772
+status: 3
+tags: []
+user_id: kumar

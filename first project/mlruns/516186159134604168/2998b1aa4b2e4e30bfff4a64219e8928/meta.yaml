@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/2998b1aa4b2e4e30bfff4a64219e8928/artifacts
+end_time: 1735228584880
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 2998b1aa4b2e4e30bfff4a64219e8928
+run_name: bemused-shrimp-758
+run_uuid: 2998b1aa4b2e4e30bfff4a64219e8928
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228584647
+status: 3
+tags: []
+user_id: kumar

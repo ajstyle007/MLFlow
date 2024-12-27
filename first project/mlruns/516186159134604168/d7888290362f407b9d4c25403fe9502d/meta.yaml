@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/d7888290362f407b9d4c25403fe9502d/artifacts
+end_time: 1735228584613
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: d7888290362f407b9d4c25403fe9502d
+run_name: resilient-bee-764
+run_uuid: d7888290362f407b9d4c25403fe9502d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228584346
+status: 3
+tags: []
+user_id: kumar

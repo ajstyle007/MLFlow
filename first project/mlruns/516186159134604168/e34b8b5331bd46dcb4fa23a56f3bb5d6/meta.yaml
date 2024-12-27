@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/e34b8b5331bd46dcb4fa23a56f3bb5d6/artifacts
+end_time: 1735228050200
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: e34b8b5331bd46dcb4fa23a56f3bb5d6
+run_name: smiling-crab-642
+run_uuid: e34b8b5331bd46dcb4fa23a56f3bb5d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228049902
+status: 3
+tags: []
+user_id: kumar

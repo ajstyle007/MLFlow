@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/9a51e062cd6d466b9b855637fbb3e05a/artifacts
+end_time: 1735228492433
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 9a51e062cd6d466b9b855637fbb3e05a
+run_name: loud-cub-93
+run_uuid: 9a51e062cd6d466b9b855637fbb3e05a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228492115
+status: 3
+tags: []
+user_id: kumar

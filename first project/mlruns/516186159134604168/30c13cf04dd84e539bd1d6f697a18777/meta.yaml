@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/30c13cf04dd84e539bd1d6f697a18777/artifacts
+end_time: 1735228049475
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 30c13cf04dd84e539bd1d6f697a18777
+run_name: resilient-mole-794
+run_uuid: 30c13cf04dd84e539bd1d6f697a18777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228049099
+status: 3
+tags: []
+user_id: kumar

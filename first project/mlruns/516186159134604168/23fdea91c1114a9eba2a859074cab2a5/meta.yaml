@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/23fdea91c1114a9eba2a859074cab2a5/artifacts
+end_time: 1735228491115
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 23fdea91c1114a9eba2a859074cab2a5
+run_name: beautiful-asp-35
+run_uuid: 23fdea91c1114a9eba2a859074cab2a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228490844
+status: 3
+tags: []
+user_id: kumar

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/b3a4665ecc774761a2146950bb4c8ff3/artifacts
+end_time: 1735228483677
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: b3a4665ecc774761a2146950bb4c8ff3
+run_name: classy-gull-969
+run_uuid: b3a4665ecc774761a2146950bb4c8ff3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228483254
+status: 3
+tags: []
+user_id: kumar

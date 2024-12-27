@@ -1,0 +1,2 @@
+Pipeline(steps=[('ohe',
+                 OneHotEncoder(handle_unknown='ignore', sparse_output=False))])

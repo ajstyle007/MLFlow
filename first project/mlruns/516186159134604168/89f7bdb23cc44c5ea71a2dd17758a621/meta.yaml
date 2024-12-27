@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/89f7bdb23cc44c5ea71a2dd17758a621/artifacts
+end_time: 1735228487501
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 89f7bdb23cc44c5ea71a2dd17758a621
+run_name: glamorous-fawn-439
+run_uuid: 89f7bdb23cc44c5ea71a2dd17758a621
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228487310
+status: 3
+tags: []
+user_id: kumar

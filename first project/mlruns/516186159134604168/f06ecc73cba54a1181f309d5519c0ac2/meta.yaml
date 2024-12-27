@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/f06ecc73cba54a1181f309d5519c0ac2/artifacts
+end_time: 1735228492658
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: f06ecc73cba54a1181f309d5519c0ac2
+run_name: indecisive-goose-994
+run_uuid: f06ecc73cba54a1181f309d5519c0ac2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228492472
+status: 3
+tags: []
+user_id: kumar

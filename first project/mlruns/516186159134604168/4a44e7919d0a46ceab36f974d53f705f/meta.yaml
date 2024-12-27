@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/4a44e7919d0a46ceab36f974d53f705f/artifacts
+end_time: 1735228484564
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 4a44e7919d0a46ceab36f974d53f705f
+run_name: sincere-grub-593
+run_uuid: 4a44e7919d0a46ceab36f974d53f705f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228484132
+status: 3
+tags: []
+user_id: kumar

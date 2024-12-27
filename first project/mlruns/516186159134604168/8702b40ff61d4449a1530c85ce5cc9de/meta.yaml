@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/8702b40ff61d4449a1530c85ce5cc9de/artifacts
+end_time: 1735228052145
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 8702b40ff61d4449a1530c85ce5cc9de
+run_name: fearless-gnu-356
+run_uuid: 8702b40ff61d4449a1530c85ce5cc9de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228051904
+status: 3
+tags: []
+user_id: kumar

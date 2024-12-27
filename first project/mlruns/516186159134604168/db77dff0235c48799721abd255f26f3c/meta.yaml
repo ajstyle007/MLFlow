@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/db77dff0235c48799721abd255f26f3c/artifacts
+end_time: 1735228054528
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: db77dff0235c48799721abd255f26f3c
+run_name: unruly-mole-520
+run_uuid: db77dff0235c48799721abd255f26f3c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228054268
+status: 3
+tags: []
+user_id: kumar

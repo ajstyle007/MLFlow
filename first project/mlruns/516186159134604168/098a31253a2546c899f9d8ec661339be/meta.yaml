@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/098a31253a2546c899f9d8ec661339be/artifacts
+end_time: 1735228576613
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 098a31253a2546c899f9d8ec661339be
+run_name: sneaky-stag-992
+run_uuid: 098a31253a2546c899f9d8ec661339be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228576298
+status: 3
+tags: []
+user_id: kumar

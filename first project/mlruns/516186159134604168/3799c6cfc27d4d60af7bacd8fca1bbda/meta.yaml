@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/3799c6cfc27d4d60af7bacd8fca1bbda/artifacts
+end_time: 1735228056599
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 3799c6cfc27d4d60af7bacd8fca1bbda
+run_name: delicate-bird-156
+run_uuid: 3799c6cfc27d4d60af7bacd8fca1bbda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228056281
+status: 3
+tags: []
+user_id: kumar

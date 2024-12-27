@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/31ad69d7b8bd4f5e9e429dfd0259ecf2/artifacts
+end_time: 1735228060528
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 31ad69d7b8bd4f5e9e429dfd0259ecf2
+run_name: victorious-quail-602
+run_uuid: 31ad69d7b8bd4f5e9e429dfd0259ecf2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228060213
+status: 3
+tags: []
+user_id: kumar

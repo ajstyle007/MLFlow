@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/8218764fc437489a91f40dc35fc84bfa/artifacts
+end_time: 1735228587622
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 8218764fc437489a91f40dc35fc84bfa
+run_name: caring-sponge-366
+run_uuid: 8218764fc437489a91f40dc35fc84bfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228587272
+status: 3
+tags: []
+user_id: kumar

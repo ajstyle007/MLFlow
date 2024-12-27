@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/6ba77d40a76a4a74b15330be051fa4d3/artifacts
+end_time: 1735228489182
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 6ba77d40a76a4a74b15330be051fa4d3
+run_name: unequaled-shad-617
+run_uuid: 6ba77d40a76a4a74b15330be051fa4d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228488977
+status: 3
+tags: []
+user_id: kumar

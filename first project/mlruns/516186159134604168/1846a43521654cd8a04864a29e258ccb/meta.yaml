@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/1846a43521654cd8a04864a29e258ccb/artifacts
+end_time: 1735228489953
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 1846a43521654cd8a04864a29e258ccb
+run_name: sneaky-dove-470
+run_uuid: 1846a43521654cd8a04864a29e258ccb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228489667
+status: 3
+tags: []
+user_id: kumar

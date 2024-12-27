@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/845617e7453c4a6782b4fb807f312e13/artifacts
+end_time: 1735228491377
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 845617e7453c4a6782b4fb807f312e13
+run_name: spiffy-carp-40
+run_uuid: 845617e7453c4a6782b4fb807f312e13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228491140
+status: 3
+tags: []
+user_id: kumar

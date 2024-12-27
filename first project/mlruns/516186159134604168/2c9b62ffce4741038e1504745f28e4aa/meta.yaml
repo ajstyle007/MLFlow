@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/2c9b62ffce4741038e1504745f28e4aa/artifacts
+end_time: 1735228487035
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 2c9b62ffce4741038e1504745f28e4aa
+run_name: illustrious-rat-613
+run_uuid: 2c9b62ffce4741038e1504745f28e4aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228486776
+status: 3
+tags: []
+user_id: kumar

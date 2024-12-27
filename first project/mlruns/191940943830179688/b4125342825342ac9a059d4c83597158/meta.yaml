@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/191940943830179688/b4125342825342ac9a059d4c83597158/artifacts
+end_time: 1735223282158
+entry_point_name: ''
+experiment_id: '191940943830179688'
+lifecycle_stage: active
+run_id: b4125342825342ac9a059d4c83597158
+run_name: tasteful-stag-159
+run_uuid: b4125342825342ac9a059d4c83597158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735223262455
+status: 3
+tags: []
+user_id: kumar

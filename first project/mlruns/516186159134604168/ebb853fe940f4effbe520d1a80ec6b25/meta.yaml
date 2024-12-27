@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/ebb853fe940f4effbe520d1a80ec6b25/artifacts
+end_time: 1735228578288
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: ebb853fe940f4effbe520d1a80ec6b25
+run_name: amusing-cat-133
+run_uuid: ebb853fe940f4effbe520d1a80ec6b25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228578048
+status: 3
+tags: []
+user_id: kumar

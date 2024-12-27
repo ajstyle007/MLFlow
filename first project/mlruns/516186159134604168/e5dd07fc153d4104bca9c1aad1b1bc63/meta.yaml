@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/e5dd07fc153d4104bca9c1aad1b1bc63/artifacts
+end_time: 1735228586461
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: e5dd07fc153d4104bca9c1aad1b1bc63
+run_name: rare-deer-693
+run_uuid: e5dd07fc153d4104bca9c1aad1b1bc63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228586220
+status: 3
+tags: []
+user_id: kumar

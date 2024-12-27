@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/0ff083aeb9fc457fbc4e64d54e19ee97/artifacts
+end_time: 1735228064201
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 0ff083aeb9fc457fbc4e64d54e19ee97
+run_name: bedecked-wolf-705
+run_uuid: 0ff083aeb9fc457fbc4e64d54e19ee97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228063966
+status: 3
+tags: []
+user_id: kumar

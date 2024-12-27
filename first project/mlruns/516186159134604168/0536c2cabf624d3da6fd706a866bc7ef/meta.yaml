@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/0536c2cabf624d3da6fd706a866bc7ef/artifacts
+end_time: 1735228583407
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 0536c2cabf624d3da6fd706a866bc7ef
+run_name: upbeat-shark-6
+run_uuid: 0536c2cabf624d3da6fd706a866bc7ef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228583089
+status: 3
+tags: []
+user_id: kumar

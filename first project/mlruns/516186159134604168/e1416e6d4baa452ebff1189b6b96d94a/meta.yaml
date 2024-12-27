@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/e1416e6d4baa452ebff1189b6b96d94a/artifacts
+end_time: 1735228060184
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: e1416e6d4baa452ebff1189b6b96d94a
+run_name: enthused-croc-462
+run_uuid: e1416e6d4baa452ebff1189b6b96d94a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228059924
+status: 3
+tags: []
+user_id: kumar

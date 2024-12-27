@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/57a9700e680a439690ad9384e20c37cb/artifacts
+end_time: 1735228056034
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 57a9700e680a439690ad9384e20c37cb
+run_name: peaceful-rat-120
+run_uuid: 57a9700e680a439690ad9384e20c37cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228055708
+status: 3
+tags: []
+user_id: kumar

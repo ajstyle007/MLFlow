@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/ae76a0db33c84290b233dfcb4257fc0f/artifacts
+end_time: 1735228578789
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: ae76a0db33c84290b233dfcb4257fc0f
+run_name: defiant-wolf-734
+run_uuid: ae76a0db33c84290b233dfcb4257fc0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228578595
+status: 3
+tags: []
+user_id: kumar

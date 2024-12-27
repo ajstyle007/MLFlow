@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/da9845934d114290a90bc8579eaa3132/artifacts
+end_time: 1735228031643
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: da9845934d114290a90bc8579eaa3132
+run_name: calm-goose-546
+run_uuid: da9845934d114290a90bc8579eaa3132
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228028558
+status: 3
+tags: []
+user_id: kumar

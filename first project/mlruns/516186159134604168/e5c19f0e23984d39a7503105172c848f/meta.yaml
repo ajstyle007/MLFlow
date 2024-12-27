@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/e5c19f0e23984d39a7503105172c848f/artifacts
+end_time: 1735228485787
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: e5c19f0e23984d39a7503105172c848f
+run_name: lyrical-hound-166
+run_uuid: e5c19f0e23984d39a7503105172c848f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228485411
+status: 3
+tags: []
+user_id: kumar

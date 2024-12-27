@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/8b58ab8bd7644f9aa6a4e0ca7304c568/artifacts
+end_time: 1735228491713
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 8b58ab8bd7644f9aa6a4e0ca7304c568
+run_name: melodic-snake-620
+run_uuid: 8b58ab8bd7644f9aa6a4e0ca7304c568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228491409
+status: 3
+tags: []
+user_id: kumar

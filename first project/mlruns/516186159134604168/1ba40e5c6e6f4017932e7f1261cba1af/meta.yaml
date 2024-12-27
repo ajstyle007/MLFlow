@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/1ba40e5c6e6f4017932e7f1261cba1af/artifacts
+end_time: 1735228589352
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 1ba40e5c6e6f4017932e7f1261cba1af
+run_name: learned-wolf-476
+run_uuid: 1ba40e5c6e6f4017932e7f1261cba1af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228589111
+status: 3
+tags: []
+user_id: kumar

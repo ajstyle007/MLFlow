@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/7f8505d22a114cd7a7eddfcb5e66e8e3/artifacts
+end_time: 1735228580756
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 7f8505d22a114cd7a7eddfcb5e66e8e3
+run_name: loud-snipe-104
+run_uuid: 7f8505d22a114cd7a7eddfcb5e66e8e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228580561
+status: 3
+tags: []
+user_id: kumar

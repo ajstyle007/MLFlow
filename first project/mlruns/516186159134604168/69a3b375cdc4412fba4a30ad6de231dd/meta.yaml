@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/69a3b375cdc4412fba4a30ad6de231dd/artifacts
+end_time: 1735228060841
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 69a3b375cdc4412fba4a30ad6de231dd
+run_name: resilient-wolf-786
+run_uuid: 69a3b375cdc4412fba4a30ad6de231dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228060554
+status: 3
+tags: []
+user_id: kumar

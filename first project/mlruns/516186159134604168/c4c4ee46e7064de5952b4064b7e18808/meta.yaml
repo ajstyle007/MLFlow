@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/c4c4ee46e7064de5952b4064b7e18808/artifacts
+end_time: 1735228576899
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: c4c4ee46e7064de5952b4064b7e18808
+run_name: dapper-bug-793
+run_uuid: c4c4ee46e7064de5952b4064b7e18808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228576639
+status: 3
+tags: []
+user_id: kumar

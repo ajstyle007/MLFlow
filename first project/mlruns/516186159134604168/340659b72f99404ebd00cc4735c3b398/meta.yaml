@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/340659b72f99404ebd00cc4735c3b398/artifacts
+end_time: 1735228585887
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 340659b72f99404ebd00cc4735c3b398
+run_name: dashing-fowl-398
+run_uuid: 340659b72f99404ebd00cc4735c3b398
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228585559
+status: 3
+tags: []
+user_id: kumar

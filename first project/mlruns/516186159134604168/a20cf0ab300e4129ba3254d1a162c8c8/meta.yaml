@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/a20cf0ab300e4129ba3254d1a162c8c8/artifacts
+end_time: 1735228051658
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: a20cf0ab300e4129ba3254d1a162c8c8
+run_name: serious-cod-981
+run_uuid: a20cf0ab300e4129ba3254d1a162c8c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228051460
+status: 3
+tags: []
+user_id: kumar

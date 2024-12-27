@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/62829f990aa54aad81a6ae55e0d254b9/artifacts
+end_time: 1735228056949
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 62829f990aa54aad81a6ae55e0d254b9
+run_name: bustling-shrimp-477
+run_uuid: 62829f990aa54aad81a6ae55e0d254b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228056626
+status: 3
+tags: []
+user_id: kumar

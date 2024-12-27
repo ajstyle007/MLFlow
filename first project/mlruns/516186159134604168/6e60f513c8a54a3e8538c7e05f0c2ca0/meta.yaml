@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/6e60f513c8a54a3e8538c7e05f0c2ca0/artifacts
+end_time: 1735228589727
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 6e60f513c8a54a3e8538c7e05f0c2ca0
+run_name: sneaky-goat-629
+run_uuid: 6e60f513c8a54a3e8538c7e05f0c2ca0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228589381
+status: 3
+tags: []
+user_id: kumar

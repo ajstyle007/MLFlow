@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/fb0fd08f95b84ed9a0302780204644bc/artifacts
+end_time: 1735228579723
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: fb0fd08f95b84ed9a0302780204644bc
+run_name: marvelous-mare-520
+run_uuid: fb0fd08f95b84ed9a0302780204644bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228579437
+status: 3
+tags: []
+user_id: kumar

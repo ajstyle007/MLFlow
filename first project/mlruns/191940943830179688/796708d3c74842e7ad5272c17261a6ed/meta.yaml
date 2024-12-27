@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/191940943830179688/796708d3c74842e7ad5272c17261a6ed/artifacts
+end_time: 1735222662325
+entry_point_name: ''
+experiment_id: '191940943830179688'
+lifecycle_stage: active
+run_id: 796708d3c74842e7ad5272c17261a6ed
+run_name: zealous-dog-776
+run_uuid: 796708d3c74842e7ad5272c17261a6ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735222645500
+status: 3
+tags: []
+user_id: kumar

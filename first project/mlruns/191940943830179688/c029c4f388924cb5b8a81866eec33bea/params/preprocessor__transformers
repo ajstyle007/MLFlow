@@ -1,0 +1,6 @@
+[('age', Pipeline(steps=[('Impute', SimpleImputer(strategy='median')),
+                ('outliers', Winsorizer(fold=3)), ('svale', StandardScaler())]), ['age']), ('fare', Pipeline(steps=[('outlier', Winsorizer(capping_method='iqr', fold=1.5)),
+                ('scaler', StandardScaler())]), ['fare']), ('embarked', Pipeline(steps=[('impute', SimpleImputer(strategy='most_frequent')),
+                ('count_encode', CountFrequencyEncoder()),
+                ('scale', MinMaxScaler())]), ['embarked']), ('sex', Pipeline(steps=[('ohe',
+                 OneHotEncoder(handle_unknown='ignore', sparse_output=False))]), ['sex']), ('family', Pipeline(steps=[('scale', MinMaxScaler())]), ['family'])]

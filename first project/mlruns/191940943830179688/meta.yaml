@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/191940943830179688
+creation_time: 1735222105396
+experiment_id: '191940943830179688'
+last_update_time: 1735222105396
+lifecycle_stage: active
+name: MF Grid Search

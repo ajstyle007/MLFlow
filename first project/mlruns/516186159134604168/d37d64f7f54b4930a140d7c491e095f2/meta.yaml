@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/d37d64f7f54b4930a140d7c491e095f2/artifacts
+end_time: 1735228580536
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: d37d64f7f54b4930a140d7c491e095f2
+run_name: melodic-panda-391
+run_uuid: d37d64f7f54b4930a140d7c491e095f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228580345
+status: 3
+tags: []
+user_id: kumar

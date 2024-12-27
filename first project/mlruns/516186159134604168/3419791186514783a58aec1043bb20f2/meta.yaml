@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/516186159134604168/3419791186514783a58aec1043bb20f2/artifacts
+end_time: 1735228483219
+entry_point_name: ''
+experiment_id: '516186159134604168'
+lifecycle_stage: active
+run_id: 3419791186514783a58aec1043bb20f2
+run_name: dazzling-colt-818
+run_uuid: 3419791186514783a58aec1043bb20f2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735228480098
+status: 3
+tags: []
+user_id: kumar
